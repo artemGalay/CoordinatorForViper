@@ -11,7 +11,6 @@ extension UIViewController {
 
     var router: Router {
         return Router(viewController: self)
-
     }
 }
 
